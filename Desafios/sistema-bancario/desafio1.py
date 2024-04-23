@@ -10,8 +10,8 @@ menu = '''
 saldo = 0
 limite = 500
 extrato = ''
-numero_saques = 0
-LIMITE_SAQUES = 3
+num_saques = 0
+LIM_SAQUES = 3
 
 print('Olá! Bem-vindo(a) ao DioBank. Utilize o menu abaixo para selecionar a sua operação:')
 
